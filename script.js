@@ -1,10 +1,3 @@
-// let dayNight = document.querySelector(".dayNight");
-// let banner = document.querySelector(".banner");
-// dayNight.addEventListener("click",()=>{
-//     banner.classList.toggle("night");
-// })
-
-
 let dayNight = document.querySelector(".dayNight");
 let banner = document.querySelector(".banner");
 let sunIcon = document.querySelector('ion-icon[name="sunny-outline"]');
